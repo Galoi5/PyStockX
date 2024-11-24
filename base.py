@@ -1,0 +1,2 @@
+class StockX():
+    pass
